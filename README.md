@@ -14,3 +14,6 @@ Restart VLC.
 
 USAGE:
 On macOS, access the extension via the VLC menu's Extensions submenu. It's recommended to set up keyboard shortcuts via System Preferences. Other platforms can access it via the "View" menu.
+
+NOTE:
+This has been tested on VLC 2.x and VLC 3.x on macOS. It has not been tested on other platforms, but should work exactly the same.
