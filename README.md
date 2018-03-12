@@ -1,5 +1,5 @@
 # Wadsworth for VLC 
-## Jump around the timeline using keyboard shortcuts
+### Jump around the timeline using keyboard shortcuts
 
 [![Watch intro video on YouTube](https://i.ytimg.com/vi/S8FYD19uMRc/0.jpg)](https://www.youtube.com/watch?v=S8FYD19uMRc)
 
