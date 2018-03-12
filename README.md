@@ -25,7 +25,7 @@ On macOS, access the extension via the VLC menu's Extensions submenu. It's recom
 
 **KNOWN ISSUES:**
 * Only tested on macOS. May not work correctly on other platforms.
-* The extension only works correctly every other time. After triggering the extension once, the extension fails to trigger a second time, and so on.
+* The extension only works correctly every other time. After triggering the extension once, the extension fails to trigger a second time, and so on. Unclear whether this is a VLC issue.
 
 ## Option B (Automator Services)
 _These are Automator Services for macOS. They work a little more reliably than the VLC extensions in Option A, and are recommended for macOS users._
