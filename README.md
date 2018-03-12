@@ -6,8 +6,6 @@ On YouTube, pressing 0-9 will jump you to a percentage of the timeline (e.g. pre
 There are two sets of extensions here—you will only need to install one of them. *Option A* are native VLC Extensions which should work cross-platform, while *Option B* are Automator scripts for macOS (which work more reliably and are recommended for macOS users). Lastly, there is an AppleScript which creates keyboard shortcuts on macOS that work with both Options A and B.
 
 ### 01 Option A (VLC Extensions)
-**NOTE:**
-
 _These are native VLC extensions that are expected to work cross-platform. Tested on VLC 2.x and 3.x on macOS._
 
 **INSTRUCTIONS:**
@@ -30,9 +28,7 @@ On macOS, access the extension via the VLC menu's Extensions submenu. It's recom
 * After triggering the extension once, the extension fails to trigger a second time. It works correctly every other time.
 
 ### 02 Option B (Automator Services)
-**NOTE:**
-
-_These are Automator Services for macOS. They work a little more reliably than the VLC extensions in Option A, and are recommended for macOS users._
+hese are Automator Services for macOS. They work a little more reliably than the VLC extensions in Option A, and are recommended for macOS users._
 
 **INSTRUCTIONS:**
 1. Copy the Automator scripts from Option B into the user's Library > Services folder (~/Library/Services)
@@ -40,8 +36,6 @@ _These are Automator Services for macOS. They work a little more reliably than t
 3. The scripts can now be found inside the VLC > Services menu
 
 ### 03 Create Keyboard Shortcuts
-**NOTE:**
-
 _This is an AppleScript which creates keyboard shortcuts on macOS that work with either Options A or B. This is not required—you can choose to create your own keyboard shortcuts, or none at all (?), but this creates them for you automatically._
 
 **INSTRUCTIONS:**
