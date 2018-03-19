@@ -48,7 +48,7 @@ _This is an AppleScript which creates keyboard shortcuts on macOS that work with
 
 **INSTRUCTIONS:**
 1. Run the Create Keyboard Shortcuts AppleScript
-2. The script will ask you to [grant Script Editor permissions to Assistive Services](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html#//apple_ref/doc/uid/TP40016239-CH69-SW1)
+2. The script will ask you to grant Script Editor [permissions to Assistive Services](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html#//apple_ref/doc/uid/TP40016239-CH69-SW1)
 3. After granting permissions in System Preferences > Security & Privacy > Privacy > Accessibility, run the script again
 4. The script will now create shortcuts for stops on the timeline from 0-90%
 5. After this, you can now jump to any point of the timeline by pressing Command+Option and a number (e.g. 3 for 30%)
