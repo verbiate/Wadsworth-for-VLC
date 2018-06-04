@@ -5,6 +5,8 @@
 
 [Watch intro video on YouTube](https://www.youtube.com/watch?v=S8FYD19uMRc)
 
+**(Also available: [Wadsworth for IINA](https://github.com/verbiate/Wadsworth-for-IINA))**
+
 On YouTube, pressing 0-9 will jump you to a percentage of the timeline (e.g. pressing 3 will jump to 30% of the way through the video). In an effort to recreate this functionality, this is a set of VLC extensions and Automator Scripts that enable jumping to a specific percentage location of the timeline. You can use other tools (like System Preferences or Alfred on macOS or AutoHotkey on Windows) to assign keyboard shortcuts to each extension and thereby replicate this functionality. An AppleScript is also included to create these shortcuts for you in System Preferences on macOS.
 
 ### INSTALLATION OPTIONS:
