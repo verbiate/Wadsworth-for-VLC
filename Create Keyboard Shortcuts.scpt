@@ -4,7 +4,7 @@
 	Requires Assistive Device access in order to run.
 	Also requires Wadsworth extensions for VLC or Automator scripts to be installed. 
 	See this link for details:
-	https://github.com/verbiate/Wadsworth-Jump-to-N-for-VLC
+	https://github.com/verbiate/Wadsworth-for-VLC
 *)
 
 tell application "System Preferences"
